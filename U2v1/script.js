@@ -25,29 +25,26 @@ Già i nomi ci fanno capire che una cosa può cambiare la VARIABILE o rimanere i
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 
+/* SCRIVI QUI LA TUA RISPOSTA */
 let myName = "francesca"
 console.log("il mio nome è "+ myName)
-
-
-/* SCRIVI QUI LA TUA RISPOSTA */
-
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
+
+
+/* SCRIVI QUI LA TUA RISPOSTA */
 const number = 12
 const number1 = 20
 console.log (number + number1)
-
-/* SCRIVI QUI LA TUA RISPOSTA */
-
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
-let x = 12
-console.log(12)
+
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-
+let x = 12
+console.log(12)
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
